@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Olaf
+
+Submitted: 2026-04-15T19:27:33.583-04:00
+
+Description:
+Olaf's laptop is consistently slow despite multiple troubleshooting attempts, indicating a potential hardware or persistent software issue requiring IT intervention.
