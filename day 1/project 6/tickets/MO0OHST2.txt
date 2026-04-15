@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Max Muller
+
+Submitted: 2026-04-15T19:25:29.637-04:00
+
+Description:
+Laptop is not starting.
