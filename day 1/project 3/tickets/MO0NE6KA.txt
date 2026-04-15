@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Chinks
+
+Submitted: 2026-04-15T18:54:39.034-04:00
+
+Description:
+Laptop is heating up
