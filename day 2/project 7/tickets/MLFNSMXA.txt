@@ -5,7 +5,7 @@ Submitted: 2025-11-01T23:15:54.110+01:00
 Description:
 User Tobias cannot sign into Windows on company laptop. Device is domain-joined. User reports no access to desktop and requests immediate assistance. Unable to authenticate at login screen; needs urgent account or device support.
 
-Status: Closed
+Status: Open
 Prio: Urgent
 
 ## Optional – Activity Log:
@@ -14,3 +14,4 @@ When making updates, append an activity log like so:
 Activity Log:
 2025-11-01T23:15:54.110+01:00 - Ticket created (Urgent). Escalated to human IT technician for account/machine support.
 2025-11-01T23:40:00.000+01:00 - User reported: "I can log in now! it works". User regained access to Windows. No further action required at this time. Ticket closed.
+2025-11-02T10:00:00.000+01:00 - Ticket reopened. User reported that the login problem has returned. Escalated to IT technician for further investigation.
